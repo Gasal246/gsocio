@@ -1,0 +1,32 @@
+{
+  "name": "Gsocio",
+  "short_name": "gsocio",
+  "icons": [
+    {
+      "src": "/assets/images/maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/images/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/assets/images/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/images/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "theme_color": "#00070e",
+  "background_color": "#131313",
+  "display": "standalone",
+  "scope": "/"
+}
